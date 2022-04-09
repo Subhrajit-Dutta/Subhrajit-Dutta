@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subhrajit-Dutta
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me -> https://www.linkedin.com/in/subhrajit-dutta/
 
