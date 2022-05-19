@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/subhrajit dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajit dutta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhrajit-dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajit-dutta" height="30" width="40" /></a>
 <a href="https://instagram.com/subhro___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhro___" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/subhrajitdutta01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhrajitdutta01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/subhrajitdutta007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhrajitdutta007" height="30" width="40" /></a>
@@ -28,6 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhrajit-dutta&show_icons=true&locale=en" alt="subhrajit-dutta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhrajit-dutta&" alt="subhrajit-dutta" /></p>
+
 
 <!---
 Subhrajit-Dutta/Subhrajit-Dutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
