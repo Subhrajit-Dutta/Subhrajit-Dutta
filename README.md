@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on MERN projects<br>👯 I’m looking to collaborate on full stack projects<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Web Dev, Android and DSA<br>⚡ Debugging: Removing the needles from the haystack.
 
+![](https://komarev.com/ghpvc/?username=Subhrajit-Dutta&color=green)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhro___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhrajit-dutta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/subhrastwt) 
@@ -21,13 +22,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Subhrajit-Dutta&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/subhrajit) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/subhrajit) 
   
 ![Snake animation](https://github.com/Subhrajit-Dutta/Subhrajit-Dutta/blob/output/github-contribution-grid-snake.svg)
