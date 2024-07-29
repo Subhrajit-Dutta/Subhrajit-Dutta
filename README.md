@@ -27,6 +27,6 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/subhrajit) 
   
-![Snake animation](https://github.com/Subhrajit-Dutta/Subhrajit-Dutta/blob/output/github-contribution-grid-snake2.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Subhrajit-Dutta/Subhrajit-Dutta/output/github-contribution-grid-snake.svg" />
 
 [![An image of @subhrajitdutta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhrajitdutta)](https://holopin.io/@subhrajitdutta)
