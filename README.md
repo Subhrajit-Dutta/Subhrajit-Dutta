@@ -1,5 +1,5 @@
 > [!WARNING]  
-> **IF YOU ARE A RECRUITER PLEASE TAKE A BREATHER AND VISIT HERE. <a href="https://creative-hire.vercel.app/" target="_blank">SURPRISE</a>** 🚀
+> **IF YOU ARE A RECRUITER PLEASE TAKE A BREATHER AND VISIT HERE. [SURPRISE](https://creative-hire.vercel.app/)** 🚀
 
 # 💫 About Me:
 🔭 I’m currently working on MERN projects<br>👯 I’m looking to collaborate on full stack projects<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Web Dev, Android and DSA<br>⚡ Debugging: Removing the needles from the haystack.
